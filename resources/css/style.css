@@ -28,3 +28,8 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+
+.tag{
+    text-align: right;
+    color: grey;
+}
